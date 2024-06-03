@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+
+#border{
+    border-style: solid;
+    border-radius: 2%;
+    border-width: 1px;
+    padding: 2%;
+    margin: 2%;
+}
+
+.archive{
+    float: right;
+}
